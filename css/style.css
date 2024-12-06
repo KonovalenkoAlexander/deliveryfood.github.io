@@ -864,3 +864,80 @@ button {
     transition: border 0.3s;
 }
 
+
+
+/* Swiper Slider Styles */
+.swiper-container {
+    width: 100%;
+    height: auto; /* Adjust height to fit images */
+}
+
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* Swiper Slider Styles */
+.swiper-container {
+    width: 100%;
+    height: auto; /* Adjust height to fit images */
+}
+
+.swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%; /* Ensuring each slide takes full container width */
+    height: 100%; /* Ensuring each slide takes full container height */
+    text-align: center;
+    background: #f0f0f0;
+}
+
+.swiper-slide img {
+    width: 100%;
+    height: auto; /* Ensure images retain their aspect ratio */
+}
+
+
+/* Swiper Slider Styles - Final Correction */
+.swiper-container {
+    width: 100%;
+    height: auto; /* Adjust height to fit images */
+}
+
+.swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.swiper-slide img {
+    width: 100%;
+    height: auto; /* Ensure images retain their aspect ratio */
+}
+
+
+/* Final Correction: Swiper Slider Styles */
+.swiper-container {
+    width: 100%;
+    height: auto; /* Adjust height to fit images */
+}
+
+.swiper-slide {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.swiper-slide img {
+    width: 100%;
+    height: auto; /* Ensure images retain their aspect ratio */
+}
